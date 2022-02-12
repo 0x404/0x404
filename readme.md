@@ -1,1 +1,42 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0x404&show_icons=true&count_private=true)
+<h2> Hey there! I'm 0x404.</h2>
+
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Computer Science at Beijing Institution Of Technology.
+- 💼 &nbsp; Interning in ByteDance AI lab.
+- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- ✍️ &nbsp; Pursuing Blog Writing as hobbies hustles.
+
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+- 💻 &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+- 🖥 &nbsp;
+  ![pyroch](https://img.shields.io/badge/-pytorch-333333?style=flat&logo=pytorch)
+  ![tensorflow](https://img.shields.io/badge/-tensorflow-333333?style=flat&logo=tensorflow)
+
+<br/>
+
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0x404&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x404&theme=buefy&layout=compact" />
+</a>
+
+<br/>
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.0x404.cn"><img alt="Website" src="https://img.shields.io/badge/Website-0x404.cn-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://leetcode-cn.com/u/0x404/"><img alt="LinkedIn" src="https://img.shields.io/badge/Leetcode-0x404-blue?style=flat-square&logo=leetcode"></a>
+<a href="871206929@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-0x404-blue?style=flat-square&logo=gmail"></a>
+</p>
+
