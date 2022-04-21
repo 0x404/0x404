@@ -6,7 +6,7 @@
 - 🎓 &nbsp; Studying Computer Science at Beijing Institution Of Technology.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Blog Writing as hobbies hustles.
-- 💼 &nbsp; worked as an intern in ByteDance AI-lab.
+- 💼 &nbsp; Worked as an intern in ByteDance AI-lab.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
