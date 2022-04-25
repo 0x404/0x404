@@ -1,12 +1,12 @@
 <h2> Hey there! I'm 0x404.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> ☁️ &nbsp;About Me </h3>
 
-- 🤔 &nbsp; What I cannot build, I do not understand.
-- 🎓 &nbsp; Studying Computer Science at Beijing Institution Of Technology.
+- ⭐️ &nbsp; What I cannot build, I do not understand.
+- 📚 &nbsp; Studying Computer Science at Beijing Institution Of Technology.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Blog Writing as hobbies hustles.
-- 💼 &nbsp; Worked as an intern in ByteDance AI-lab.
+- ⌨️ &nbsp; Worked as an intern in ByteDance AI-lab.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
