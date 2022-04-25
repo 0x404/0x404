@@ -37,6 +37,6 @@
 
 <p align="center">
 <a href="https://www.0x404.cn"><img alt="Website" src="https://img.shields.io/badge/Website-0x404.cn-blue?style=flat-square&logo=google-chrome"></a>
-<a href="871206929@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-0x404-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:871206929@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-0x404-blue?style=flat-square&logo=gmail"></a>
 </p>
 
