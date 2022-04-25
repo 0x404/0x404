@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; What I cannot build, I do not understand.
 - 🎓 &nbsp; Studying Computer Science at Beijing Institution Of Technology.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Blog Writing as hobbies hustles.
