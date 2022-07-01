@@ -22,7 +22,6 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 - 🖥 &nbsp;
   ![pyroch](https://img.shields.io/badge/-pytorch-333333?style=flat&logo=pytorch)
-  ![tensorflow](https://img.shields.io/badge/-tensorflow-333333?style=flat&logo=tensorflow)
 
 <br/>
 
