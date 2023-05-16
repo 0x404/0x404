@@ -4,8 +4,6 @@
 
 - ⭐️ &nbsp; What I cannot build, I do not understand.
 - 📚 &nbsp; Studying Computer Science at Beijing Institution Of Technology.
-- 🌱 &nbsp; Learning more about Open Source and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Blog Writing as hobbies hustles.
 - ⌨️ &nbsp; Worked as an intern in ByteDance AI-lab and Momenta HD pipeline.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
