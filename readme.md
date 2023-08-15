@@ -2,8 +2,7 @@
 
 <h3> ☁️ &nbsp;About Me </h3>
 
-- ⭐️ &nbsp; What I cannot build, I do not understand.
-- 🔥 &nbsp; Interested in software engineering and distributed deep learning frameworks.
+- ⭐️ &nbsp; Interested in software engineering and distributed deep learning frameworks.
 - 📚 &nbsp; Master's in Computer Science from Beijing Institute of Technology.
 - ⌨️ &nbsp; Worked as an intern in ByteDance AI-lab and Momenta HD pipeline.
 
