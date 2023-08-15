@@ -29,5 +29,4 @@
 <a href="mailto:871206929@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-0x404-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-![snake](https://raw.githubusercontent.com/MHuiG/MHuiG/output/github-contribution-grid-snake.svg)
 
