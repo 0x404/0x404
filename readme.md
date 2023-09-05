@@ -19,13 +19,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x404&theme=buefy&layout=compact" />
 </a>
 
-<br/>
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-<a href="https://www.0x404.cn"><img alt="Website" src="https://img.shields.io/badge/Website-0x404.cn-blue?style=flat-square&logo=google-chrome"></a>
-<a href="mailto:871206929@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-0x404-blue?style=flat-square&logo=gmail"></a>
-</p>
-
 
