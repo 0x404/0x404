@@ -1,4 +1,4 @@
-<h2> Hey there! I'm qunhong zeng.</h2>
+<h2> Hey there! I'm Qunhong Zeng.</h2>
 
 <h3> ☁️ &nbsp;About Me </h3>
 
