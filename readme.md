@@ -2,9 +2,9 @@
 
 <h3> ☁️ &nbsp;About Me </h3>
 
-- ⭐️ &nbsp; Interested in software engineering and distributed deep learning frameworks.
-- 📚 &nbsp; Master's in Computer Science from Beijing Institute of Technology.
-- ⌨️ &nbsp; Worked as an intern in ByteDance AI-lab and Momenta HD pipeline.
+- ⭐️ &nbsp; Interested in Software Engineering and Deep Learning Frameworks.
+- 📚 &nbsp; Master's in Computer Science from [Beijing Institute of Technology](https://www.bit.edu.cn).
+- ⌨️ &nbsp; Worked as an intern in [ByteDance AI-lab](https://www.bytedance.com/en/) and [Momenta HD pipeline](https://www.momenta.cn).
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
